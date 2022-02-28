@@ -2,7 +2,7 @@
 
 ## Made by Chanow, Chung, Farmer, Szepesi
 
-**Structure:
+**Structure:**
 
 Datasets will be in the data folder.
 
