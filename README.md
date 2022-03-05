@@ -1,6 +1,6 @@
 # BlueYp713_UMD_2022
 
-## Made by Chanow, Chung, Farmer, Szepesi
+## Made by Chanow, Chung, Farmer
 
 **Structure:**
 
